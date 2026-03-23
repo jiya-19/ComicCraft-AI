@@ -8,7 +8,7 @@ ComicCraft AI is a generative AI-powered platform that transforms a user's story
 
 ## 🚀 The Problem
 
-Millions of aspiring comic creators, educators, and students have compelling stories but lack the drawing skills or budget for professional tools. Existing AI image generators produce isolated visuals with no narrative continuity, character consistency, or structured panel flow.
+Millions of aspiring comic creators, educators, and students have compelling stories but lack the drawing skills or tight budget for professional tools. Existing AI image generators produce isolated visuals with no narrative continuity, character consistency, or structured panel flow.
 
 **ComicCraft AI bridges this gap.**
 
