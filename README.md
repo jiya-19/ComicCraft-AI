@@ -166,7 +166,7 @@ npm start
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License — free to use, modify and distribute.
 
 ---
 
